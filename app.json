@@ -1,0 +1,46 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/singleplayer/index",
+    "pages/multiplayer/index",
+    "pages/singleplayerresult/index",
+    "pages/myid/index",
+    "pages/multiplayerresult/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "中秋博饼",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "color": "#2c2c2c",
+    "selectedColor": "#1296db",
+    "backgroundColor": "",
+    "position": "bottom",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "博饼",
+        "iconPath": "icons/touzi1.png",
+        "selectedIconPath": "icons/touzi1-2.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "",
+        "iconPath": "icons/moon_fill.png",
+        "selectedIconPath": "icons/moon_fill.png"
+      },
+      {
+        "pagePath": "pages/myid/index",
+        "text": "我的",
+        "iconPath": "icons/wode1.png",
+        "selectedIconPath": "icons/wode1-2.png"
+      }
+    ]
+  },
+
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,8 @@
+<view class="container">
+<image class="background" src="/images/微信图片_20210928125218.jpg"></image>
+<view class="multiplayer"><image src="/images/IMG_4746(20210930-122011).jpg"></image></view>
+<view class="singleplayer"><image src="/images/2.jpg"></image></view>
+<view class="rule"><image src="/images/IMG_4866.jpg"></image></view>
+<view class="pictureFrame"><image src="/images/IMG_4742(20210930-121849).jpg"></image></view>
+</view>
+
